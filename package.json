@@ -61,7 +61,7 @@
     "postcss": "^8.2.6",
     "sass": "^1.32.2",
     "semver": "^7.3.4",
-    "strftime": "^0.10.0"
+    "strftime": "^0.10.2"
   },
   "devDependencies": {
     "chokidar": "^3.5.0",
